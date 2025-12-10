@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+
+#tarolo{
+    background-color: brown;
+    color: antiquewhite;
+    width: 80%;/* a width értéke mindig százalékos */
+    max-width: 800px;/* max width, px, pt */
+    margin: auto;/* a böngésző két oldalán a margok egyenlők */
+    padding: 10px;
+}
+
+#menu{
+    padding: 10px;
+}
+
+#menu a{
+    color: blue;
+    text-decoration: none;
+    border: 1px solid greenyellow;
+    padding: 5px 10px 5px 10px;
+    margin: 10px;
+    border-color: aquamarine;
+    background-color: azure;
+    border-radius: 10px;
+}
+#menu a:hover{
+    color: rgb(226, 125, 43);
+}
