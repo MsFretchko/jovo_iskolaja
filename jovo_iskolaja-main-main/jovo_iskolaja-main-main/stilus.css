@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(218, 170, 111);
+    background-image: url(kepek/Orren\ Ellis\ Circles\ Illustration\ Orange\ 12_0\ x\ 12.0\ x\ 1.25\ in\,\ Canvas\ _\ Wayfair\ Canada);
+    max-width: 1000px;
+    margin: auto;
+}
+
+#tarolo{
+    background-color: rgb(241, 220, 191);
+    color: rgb(49, 43, 37);
+    width: 80%;/* a width értéke mindig százalékos */
+    max-width: 800px;/* max width, px, pt */
+    margin: auto;/* a böngésző két oldalán a margok egyenlők */
+    padding: 10px;
+    border: 2cap solid rgb(233, 184, 94);
+}
+
+#menu{
+    padding: 10px;
+}
+
+#menu a{
+    color: rgb(255, 252, 246);
+    text-decoration: none;
+    border: 10px solid rgb(56, 33, 11);
+    padding: 5px 10px 5px 10px;
+    margin: 10px;
+    border-color: rgb(80, 50, 22);
+    background-color: rgb(131, 72, 17);
+    border-radius: 10px;
+}
+#menu a:hover{
+    color: rgb(228, 111, 16);
+}
+#fejlec{
+    background-color: rgb(243, 236, 231);
+    font-size: 20px;
+    font-family: 'Broadway';
+    letter-spacing: 5px;
+    text-align: center;
+    color: rgb(126, 96, 40);
+    
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(150, 117, 56);
+}
+
+p{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(126, 96, 40);
+    text-align: justify;
+}
+
+#lablec{
+    font-weight: bold;
+    font-style: italic;
+}
+
+img{
+    width: 300px;
+    border: 10px solid rgb(165, 87, 42);
+    border-radius: 50%;
+    padding: 10px;
+}
